@@ -1,0 +1,9 @@
+{
+	"name": "ctrexdf",
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c09129d7-1c23-40d1-96fc-cc226a0acbe4",
+		"tenantId": "22dab436-216a-4962-87af-219adad93a22"
+	}
+}
